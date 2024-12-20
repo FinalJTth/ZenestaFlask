@@ -1,0 +1,4 @@
+Flask>=2.2.3
+Tensorflow==2.10.1
+Flask-cors>=5.0.0
+Pillow==10.4.0

@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ZenestaFlask||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\ml\\model.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|solutionrelative:ZenestaFlask\\ml\\model.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|solutionrelative:ZenestaFlask\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|solutionrelative:ZenestaFlask\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\ZenestaFlask.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9a46bc86-34cb-4597-83e5-498e3bdba20a",
+      "RelativeMoniker": "D:0:0:{38CD7B5F-A991-4F45-8AA6-3D0EBDE0C82C}|ZenestaFlask\\ZenestaFlask.pyproj|solutionrelative:ZenestaFlask\\ZenestaFlask.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9a46bc86-34cb-4597-83e5-498e3bdba20a"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZenestaFlask",
+              "DocumentMoniker": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\ZenestaFlask.pyproj",
+              "RelativeDocumentMoniker": "ZenestaFlask\\ZenestaFlask.pyproj",
+              "ToolTip": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\ZenestaFlask.pyproj",
+              "RelativeToolTip": "ZenestaFlask\\ZenestaFlask.pyproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-18T08:34:40.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "model.py",
+              "DocumentMoniker": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\ml\\model.py",
+              "RelativeDocumentMoniker": "ZenestaFlask\\ml\\model.py",
+              "ToolTip": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\ml\\model.py",
+              "RelativeToolTip": "ZenestaFlask\\ml\\model.py",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-14T09:14:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\requirements.txt",
+              "RelativeDocumentMoniker": "ZenestaFlask\\requirements.txt",
+              "ToolTip": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\requirements.txt",
+              "RelativeToolTip": "ZenestaFlask\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-14T07:28:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.py",
+              "DocumentMoniker": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\app.py",
+              "RelativeDocumentMoniker": "ZenestaFlask\\app.py",
+              "ToolTip": "F:\\Project\\Coding\\Side Project\\ZenestaFlask\\ZenestaFlask\\app.py",
+              "RelativeToolTip": "ZenestaFlask\\app.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-14T07:26:41.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
